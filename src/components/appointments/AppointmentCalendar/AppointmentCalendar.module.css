@@ -1,0 +1,8 @@
+.timeContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.timeContainerItem {
+    flex-basis: 45%;
+}

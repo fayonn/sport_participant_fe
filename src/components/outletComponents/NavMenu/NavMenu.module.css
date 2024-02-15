@@ -1,0 +1,17 @@
+.navigator {
+    flex-basis: 20%;
+    padding: 5px;
+}
+
+.navigatorList {
+
+}
+
+.navigatorListItem {
+
+}
+
+.navigatorListItemActive {
+    background-color: #0d7ae5;
+    /*color: green;*/
+}

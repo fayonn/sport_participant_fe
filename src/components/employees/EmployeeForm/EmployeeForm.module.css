@@ -1,0 +1,14 @@
+.selectedAll {
+    background-color: rgba(0, 0, 0, 0.08)
+}
+
+.indeterminateColor {
+    color: #f50057
+}
+.selectAllText {
+    font-weight: 500
+}
+
+.selectBox {
+    width: 100%;
+}

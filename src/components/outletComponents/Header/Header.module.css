@@ -1,0 +1,6 @@
+.headerContainer {
+    background-color: red;
+    display: flex;
+    justify-content: right;
+    padding: 5px;
+}
